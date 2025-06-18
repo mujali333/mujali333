@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ahmed Mujali</h1>
 <h3 align="center">"Flutter & Android App Developer | Front-end Enthusiast 🚀"</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mujali333" alt="mujali333" /></a> </p>
-
 - 💬 Ask me about **Flutter & Dart - Android App Development - UI/UX Design in Flutter - Front-end Web Development (HTML, CSS, JavaScript,boostrap,jQuery) - Firebase Integration - REST APIs with Flutter - Cross-platform mobile development**
 
 - 📫 How to reach me **b04494704@gmail.com**
