@@ -52,12 +52,8 @@ with a strong focus on clean UI, smooth user experience, and performance.
 - 📧 **ahmedmujali76@gmail.com**
 
 ---
-<h3>☕ Support My Work</h3>
-<p>
-  <a href="https://www.buymeacoffee.com/mujali333" target="_blank">
-    ☕ Buy me a coffee
-  </a>
-</p>
+### ☕ Support My Work
+☕ [Buy me a coffee](https://www.buymeacoffee.com/mujali333)
 
 
 
