@@ -52,22 +52,9 @@ with a strong focus on clean UI, smooth user experience, and performance.
 - 📧 **ahmedmujali76@gmail.com**
 
 ---
-<h3 align="left">☕ Support My Work</h3>
-<p>
-  <a href="https://www.buymeacoffee.com/mujali333" target="_blank">
-    <img
-      src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png"
-      alt="Buy me a coffee"
-      height="45"
-      width="200"
-    />
-  </a>
-</p>
 
 
 
 ---
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mujali333&layout=compact&theme=default" />
-</p>
+
