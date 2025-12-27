@@ -1,54 +1,68 @@
 <h1 align="center">Hi 👋, I'm Ahmed Mujali</h1>
-<h3 align="center">Flutter App Developer | UI Designer 🎨📱</h3>
+<h3 align="center">
+Flutter App Developer 📱 | UI Designer 🎨  
+</h3>
+
+<p align="center">
+I build modern, scalable mobile applications using Flutter,  
+with a strong focus on clean UI, smooth user experience, and performance.
+</p>
 
 ---
 
-- 💬 Ask me about:  
-  **Flutter & Dart · Android App Development ·  
-  UI Design & Custom Widgets in Flutter ·  
-  Firebase Integration · REST APIs ·  
-  Cross-platform Mobile Applications**  
-
-- 🌱 Currently learning:  
-  **UX Design principles & user-centered design**
-
-- 📫 How to reach me:  
-  **ahmedmujali76@gmail.com**
+### 🚀 What I Do
+- 📱 Develop **cross-platform mobile apps** using Flutter & Dart  
+- 🎨 Design **modern, clean, and user-friendly UI**  
+- 🧩 Build **custom widgets & reusable components**  
+- 🔥 Integrate **Firebase services** (Auth, Firestore, Storage, FCM)  
+- 🔗 Work with **REST APIs**  
+- 🧠 Apply best practices for **state management & app architecture**
 
 ---
 
-<h3 align="left">Languages and Tools:</h3>
+### 🌱 Currently Improving
+- **UX Design fundamentals**  
+- User-centered design & usability principles  
+- Turning designs into **high-quality Flutter UI**
+
+---
+
+### 🛠 Languages & Tools
 <p align="left">
-  <a href="https://dart.dev" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/>
+  <a href="https://dart.dev" target="_blank">
+    <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" width="40"/>
   </a>
-  <a href="https://flutter.dev" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/>
+  <a href="https://flutter.dev" target="_blank">
+    <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" width="40"/>
   </a>
-  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/>
+  <a href="https://firebase.google.com/" target="_blank">
+    <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="40"/>
   </a>
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>
+  <a href="https://www.figma.com/" target="_blank">
+    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="40"/>
   </a>
-  <a href="https://developer.android.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg" alt="android" width="40" height="40"/>
+  <a href="https://developer.android.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg" width="40"/>
   </a>
 </p>
 
 ---
 
-<h3 align="left">Support:</h3>
+### 📫 Contact Me
+- 📧 **ahmedmujali76@gmail.com**
+
+---
+
+### ☕ Support My Work
 <p>
   <a href="https://www.buymeacoffee.com/mujali333">
-    <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png"
-         height="50" width="210" alt="Buy me a coffee" />
+    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png"
+         height="45" width="200" />
   </a>
 </p>
-<br><br>
 
-<p>
-  <img align="center"
-       src="https://github-readme-stats.vercel.app/api/top-langs?username=mujali333&show_icons=true&locale=en&layout=compact"
-       alt="mujali333" />
+---
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mujali333&layout=compact&theme=default" />
 </p>
