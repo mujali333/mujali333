@@ -52,13 +52,13 @@ with a strong focus on clean UI, smooth user experience, and performance.
 - 📧 **ahmedmujali76@gmail.com**
 
 ---
-### ☕ Support My Work
+<h3>☕ Support My Work</h3>
 <p>
   <a href="https://www.buymeacoffee.com/mujali333" target="_blank">
-    <img src="https://img.icons8.com/emoji/24/coffee.png"/>
-    Buy me a coffee
+    ☕ Buy me a coffee
   </a>
 </p>
+
 
 
 ---
